@@ -1,0 +1,5 @@
+packages:
+  - libmysqlclient-dev
+
+modules:
+  ruby: 
